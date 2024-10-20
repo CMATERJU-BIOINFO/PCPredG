@@ -24,8 +24,8 @@ PCPredG's performance was compared against several advanced models, including:
 
 ## Datasets
 
-The dataset was sourced from the **CORUM protein complex repository**, with data curation handled by **MCODE** and **MCL clustering algorithms** to ensure accurate positive and negative samples.
-Interaction data: **DIP**, **HIPPIE**
+- The dataset was sourced from the **CORUM protein complex repository**, with data curation handled by **MCODE** and **MCL clustering algorithms** to ensure accurate positive and negative samples.
+- Interaction data: **DIP**, **HIPPIE**
 
 
 
