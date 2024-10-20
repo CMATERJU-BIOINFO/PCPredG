@@ -11,8 +11,8 @@ Proteins interact with other biomolecules to form complexes, playing crucial rol
 - Experiments run in both **balanced and imbalanced: (1:1 to 1:10)** setups.
 - Introduces a **10-fold quality consensus** on hold-out datasets for performance validation.
 - Achieved best performance with the **Random Forest (RF) classifier** in both balanced and imbalanced experiments.
-- **Performance comparison** with the recently developed **Polarized Message Passing Graph Neural Network (PMP-GNN)** model, highlighting the strengths of PCPredG.
-### Models
+  
+### Performance comparison
 
 PCPredG's performance was compared against several advanced models, including:
 
